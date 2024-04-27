@@ -2,6 +2,8 @@ Nama: Muhamad Farras Jasir
 
 NIM: 312210361
 
+KELAS: TI.22.A5
+
 
 
 # lab7
