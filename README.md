@@ -1,4 +1,4 @@
-![Screenshot (510)](https://github.com/muhamadfarrasjasir12/lab7/assets/150880443/3db03d5d-76b9-47d7-9fc6-f32e34572a8c)Nama: Muhamad Farras Jasir
+Nama: Muhamad Farras Jasir
 
 NIM: 312210361
 
