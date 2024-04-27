@@ -41,6 +41,9 @@ buat controller baru dengan nama artikel.php pada direktori app/Controllers
 
 ![Screenshot (511)](https://github.com/muhamadfarrasjasir12/lab7/assets/150880443/d0b3ecf9-7f2c-42a2-9c29-9a64c5a834ab)
 
+# EDIT BERITA
+
+![Screenshot (512)](https://github.com/muhamadfarrasjasir12/lab7/assets/150880443/3ccef01d-dd47-4273-befc-e86f90f7ac97)
 
 
 
